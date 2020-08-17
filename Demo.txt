@@ -1,0 +1,15 @@
+Demo for git commands
+git init
+
+git add file name
+
+git status for check the status of your git
+
+git checkout -b to create a branch
+
+git checkout branchName for goto any specific branch
+
+git fetch --all to fetch all folders or files
+
+git push branchName to push your code to any branch  
+
