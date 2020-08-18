@@ -11,5 +11,7 @@ git checkout branchName for goto any specific branch
 
 git fetch --all to fetch all folders or files
 
-git push branchName to push your code to any branch  
+git push branchName to push your code to any branch 
+
+git pull for pull code from a particular branch 
 
