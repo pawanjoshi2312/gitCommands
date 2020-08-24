@@ -5,9 +5,6 @@ push
 pull
 checkout
 diff
-<<<<<<< HEAD
 merge
-=======
 status
->>>>>>> dev
 
