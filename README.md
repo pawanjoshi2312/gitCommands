@@ -5,4 +5,5 @@ push
 pull
 checkout
 diff
+status
 
